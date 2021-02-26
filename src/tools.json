@@ -1,0 +1,18 @@
+[{
+  "id": "SELECTION",
+  "title": "Selection",
+  "icon": ""
+},{
+  "id": "RESIZE",
+  "title": "Resize",
+  "icon": ""
+}, {
+  "id": "BOUNDING_BOX",
+  "title": "Bounding Box",
+  "icon": ""
+},
+{
+  "id": "POLYGON",
+  "title": "Polygon",
+  "icon": ""
+}]
